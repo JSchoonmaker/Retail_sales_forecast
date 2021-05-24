@@ -13,3 +13,6 @@ Iowa Liquor Sales, available as a public dataset on Google's BigQuery, or here: 
 #### Model Questions explored:
 1. Once add'l date features, daily, weekly, and monthly averages are added, which features correlate most strongly with sales amount in dollars?
 2. When an XGBoost model is trained on the 2020 data for the Hy-Vee in Cedar Falls, how accurate can it forecast the 2021 sales data?
+
+
+##### Please note: originally created in a notebook instance on Google Cloud Platform
